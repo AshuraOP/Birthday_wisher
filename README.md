@@ -46,7 +46,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/birthday-wisher-end.git
+git clone [https://github.com/AshuraOP/Birthday_wisher]
 cd birthday-wisher-end
 Install required packages:
 
